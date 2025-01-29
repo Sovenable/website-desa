@@ -4,7 +4,44 @@
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/vite.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Vite + React</title>
+    <!-- Meta tags untuk SEO -->
+    <meta name="description" content="Website resmi Desa Tanjung Jaya, Kecamatan Limau, Kabupaten Tanggamus. Informasi lengkap tentang profil desa, kegiatan, dan pelayanan masyarakat." />
+    <meta name="keywords" content="Desa Tanjung Jaya, Kecamatan Limau, Kabupaten Tanggamus, Website Desa, Profil Desa" />
+    <meta name="author" content="Admin Desa Tanjung Jaya" />
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://desa-tanjung-jaya.netlify.app/" />
+    <meta property="og:title" content="Desa Tanjung Jaya - Kecamatan Limau, Kabupaten Tanggamus" />
+    <meta property="og:description" content="Website resmi Desa Tanjung Jaya. Informasi lengkap tentang profil desa, kegiatan, dan pelayanan masyarakat." />
+    <meta property="og:image" content="/image/bb.jpg" />
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="https://desa-tanjung-jaya.netlify.app/" />
+    <meta property="twitter:title" content="Desa Tanjung Jaya - Kecamatan Limau, Kabupaten Tanggamus" />
+    <meta property="twitter:description" content="Website resmi Desa Tanjung Jaya. Informasi lengkap tentang profil desa, kegiatan, dan pelayanan masyarakat." />
+    <meta property="twitter:image" content="/image/bb.jpg" />
+
+    <title>Desa Tanjung Jaya - Kecamatan Limau, Kabupaten Tanggamus</title>
+
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "GovernmentOrganization",
+        "name": "Desa Tanjung Jaya",
+        "description": "Website resmi Desa Tanjung Jaya, Kecamatan Limau, Kabupaten Tanggamus",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Jl. Pramuka, Badak",
+          "addressLocality": "Kecamatan Limau",
+          "addressRegion": "Kabupaten Tanggamus",
+          "addressCountry": "ID"
+        },
+        "url": "https://desa-tanjung-jaya.netlify.app"
+      }
+    </script>
   </head>
   <body>
     <div id="root"></div>
