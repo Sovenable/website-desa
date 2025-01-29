@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://desa-tanjung-jaya.netlify.app/sitemap.xml
