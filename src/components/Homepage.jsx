@@ -56,7 +56,7 @@ const Homepage = () => {
       id: 1,
       title: "Sosialisasi Stunting",
       date: "2025-01-07",
-      image: "/public/image/stunting/s1.jpg",
+      image: "/image/stunting/s1.jpg",
       category: "Kesehatan",
       description: "Program pencegahan dan penanganan stunting untuk meningkatkan kesadaran masyarakat"
     },
@@ -64,7 +64,7 @@ const Homepage = () => {
       id: 2,
       title: "Sosialisasi Pembuatan Abon Ikan",
       date: "2025-01-17",
-      image: "/public/image/abon/a1.jpg",
+      image: "/image/abon/a1.jpg",
       category: "Ekonomi",
       description: "Pelatihan pembuatan abon ikan untuk pemberdayaan ekonomi masyarakat"
     }

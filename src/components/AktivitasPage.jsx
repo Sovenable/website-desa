@@ -96,32 +96,32 @@ const AktivitasPage = () => {
     {
       id: 3,
       title: "Musyawarah Rencana Pembangunan Desa",
-      image: "/public/image/Dokumentasi/d3.jpg"
+      image: "/image/Dokumentasi/d3.jpg"
     },
     {
       id: 4,
       title: "Penanaman Tanaman Apotik Hidup",
-      image: "/public/image/Dokumentasi/d4.jpg"
+      image: "/image/Dokumentasi/d4.jpg"
     },
     {
       id: 5,
       title: "Senam Bersama Ibu-Ibu PKK",
-      image: "/public/image/Dokumentasi/d5.jpg"
+      image: "/image/Dokumentasi/d5.jpg"
     },
     {
       id: 6,
       title: "Kegiatan Posyandu Balita, Remaja dan Lansia",
-      image: "/public/image/Dokumentasi/d6.jpg"
+      image: "/image/Dokumentasi/d6.jpg"
     },
     {
       id: 7,
       title: "Sosialisasi Pembuatan Mpon-Mpon",
-      image: "/public/image/Dokumentasi/d7.jpg"
+      image: "/image/Dokumentasi/d7.jpg"
     },
     {
       id: 8,
       title: "Musdes Penetapan KPM BLT-DD",
-      image: "/public/image/Dokumentasi/d8.jpg"
+      image: "/image/Dokumentasi/d8.jpg"
     },
     {
       id: 9,
@@ -131,12 +131,12 @@ const AktivitasPage = () => {
     {
       id: 10,
       title: "Rapat Musrenbang",
-      image: "/public/image/Dokumentasi/d10.jpg"
+      image: "/image/Dokumentasi/d10.jpg"
     },
     {
       id: 11,
       title: "Pengajian",
-      image: "/public/image/Dokumentasi/d11.jpg"
+      image: "/image/Dokumentasi/d11.jpg"
     }
   ];
 

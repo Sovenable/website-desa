@@ -25,7 +25,7 @@ const BeritaPage = () => {
       time: "09:00 WIB",
       location: "Posyandu",
       peserta: "Kader Posyandu & Ibu Hamil",
-      image: "/public/image/stunting/s1.jpg",
+      image: "/image/stunting/s1.jpg",
       category: "Kesehatan",
       author: "Admin Desa",
       content: `
@@ -41,9 +41,9 @@ const BeritaPage = () => {
        Kegiatan ini bertujuan untuk meningkatkan pemahaman masyarakat Desa Tanjung Jaya tentang pentingnya pencegahan stunting sebagai upaya menciptakan generasi yang sehat dan cerdas.
       `,
       galeri: [
-        "/public/image/stunting/s2.jpg",
-        "/public/image/stunting/s3.jpg",
-        "/public/image/stunting/s4.jpg"
+        "/image/stunting/s2.jpg",
+        "/image/stunting/s3.jpg",
+        "/image/stunting/s4.jpg"
       ]
     },
     2: {
@@ -53,7 +53,7 @@ const BeritaPage = () => {
       time: "12:00 WIB",
       location: "Rumah Warga Desa",
       peserta: "Ibu Hamil & Ibu Menyusui",
-      image: "/public/image/abon/a1.jpg",
+      image: "/image/abon/a1.jpg",
       category: "Ekonomi",
       author: "Admin Desa",
       content: `
@@ -61,9 +61,9 @@ const BeritaPage = () => {
 
       `,
       galeri: [
-        "/public/image/abon/a2.jpg",
-        "/public/image/abon/a3.jpg",
-        "/public/image/abon/a4.jpg"
+        "/image/abon/a2.jpg",
+        "/image/abon/a3.jpg",
+        "/image/abon/a4.jpg"
       ]
     },
     3: {
@@ -73,16 +73,16 @@ const BeritaPage = () => {
       time: "09:00 WIB",
       location: "Balai Desa",
       peserta: "Seluruh Warga",
-      image: "/public/image/musrembang/m1.jpg",
+      image: "/image/musrembang/m1.jpg",
       category: "Pembangunan",
       author: "Admin Desa",
       content: `
        Musyawarah Rencana Pembangunan Desa (Musrenbang) adalah kegiatan yang melibatkan seluruh elemen masyarakat, perangkat desa, dan tokoh masyarakat untuk membahas dan menyusun rencana pembangunan Desa Tanjung Jaya. Dalam forum ini, warga menyampaikan aspirasi dan kebutuhan desa yang menjadi prioritas untuk ditindaklanjuti. Musrenbang ini bertujuan untuk menyusun program kerja yang sesuai dengan kebutuhan masyarakat, sekaligus memastikan pembangunan desa dilakukan secara transparan dan partisipatif.
       `,
       galeri: [
-        "/public/image/musrembang/m2.jpg",
-        "/public/image/musrembang/m3.jpg",
-        "/public/image/musrembang/m4.jpg"
+        "/image/musrembang/m2.jpg",
+        "/image/musrembang/m3.jpg",
+        "/image/musrembang/m4.jpg"
       ]
     },
     4: {
@@ -92,16 +92,16 @@ const BeritaPage = () => {
       time: "09:00 WIB",
       location: "SDN 01 Tanjung Jaya",
       peserta: "Siswa Siswi SDN 01 Tanjung Jayaa",
-      image: "/public/image/apotek/a1.jpg",
+      image: "/image/apotek/a1.jpg",
       category: "Kesehatan",
       author: "Admin Desa",
       content: `
         Kegiatan ini bertujuan untuk meningkatkan kesadaran masyarakat tentang manfaat tanaman obat keluarga (TOGA) dalam menjaga kesehatan. Siswa dan siwsi diajak untuk menanam berbagai tanaman obat, seperti jahe, kunyit, daun sirih, dan tanaman herbal lainnya, di pekarangan rumah. Selain itu, diberikan edukasi tentang cara pengolahan tanaman tersebut sebagai alternatif obat alami untuk kebutuhan sehari-hari.
       `,
       galeri: [
-        "/public/image/apotek/a2.jpg",
-        "/public/image/apotek/a3.jpg",
-        "/public/image/apotek/a4.jpg"
+        "/image/apotek/a2.jpg",
+        "/image/apotek/a3.jpg",
+        "/image/apotek/a4.jpg"
       ]
     },
     5: {
@@ -111,7 +111,7 @@ const BeritaPage = () => {
       time: "06:00 WIB",
       location: "Halaman Rumah Lurah",
       peserta: "Ibu-Ibu PKK",
-      image: "/public/image/senam/s1.jpg",
+      image: "/image/senam/s1.jpg",
       category: "Kesehatan",
       author: "Admin Desa",
       content: `
@@ -126,9 +126,9 @@ const BeritaPage = () => {
         Kegiatan ini akan dilaksanakan secara rutin setiap minggu.
       `,
       galeri: [
-        "/public/image/senam/s2.jpg",
-        "/public/image/senam/s3.jpg",
-        "/public/image/senam/s4.jpg"
+        "/image/senam/s2.jpg",
+        "/image/senam/s3.jpg",
+        "/image/senam/s4.jpg"
       ]
     },
     6: {
@@ -138,16 +138,16 @@ const BeritaPage = () => {
       time: "08:00 WIB",
       location: "Posyandu Desa",
       peserta: "Balita, Remaja, dan Lansia",
-      image: "/public/image/posyandu/p1.jpg",
+      image: "/image/posyandu/p1.jpg",
       category: "Kesehatan",
       author: "Admin Desa",
       content: `
        Kegiatan posyandu dilakukan secara rutin untuk memantau kesehatan masyarakat di berbagai kelompok umur. Untuk balita, dilakukan pemeriksaan berat badan, tinggi badan, serta pemberian imunisasi. Untuk remaja, diberikan edukasi tentang kesehatan reproduksi dan pola hidup sehat. Sedangkan untuk lansia, dilakukan pemeriksaan kesehatan umum serta penyuluhan tentang pola makan dan gaya hidup sehat yang sesuai dengan usia mereka.
       `,
       galeri: [
-        "/public/image/posyandu/p2.jpg",
-        "/public/image/posyandu/p3.jpg",
-        "/public/image/posyandu/p4.jpg"
+        "/image/posyandu/p2.jpg",
+        "/image/posyandu/p3.jpg",
+        "/image/posyandu/p4.jpg"
       ]
     }
   };
