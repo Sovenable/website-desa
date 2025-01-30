@@ -90,7 +90,7 @@ const AktivitasPage = () => {
     },
     {
       id: 2,
-      title: "Sosialisasi Pembuatan Abon Ikan",
+      title: "Sosialisasi Pembuatan Abon Ikan Oleh Mahasiswa KKN ITERA",
       image: "/image/Dokumentasi/d2.jpg"
     },
     {
@@ -100,12 +100,12 @@ const AktivitasPage = () => {
     },
     {
       id: 4,
-      title: "Penanaman Tanaman Apotik Hidup",
+      title: "Penanaman Apotik Hidup Oleh Mahasiswa KKN ITERA",
       image: "/image/Dokumentasi/d4.jpg"
     },
     {
       id: 5,
-      title: "Senam Bersama Ibu-Ibu PKK",
+      title: "Senam Bersama",
       image: "/image/Dokumentasi/d5.jpg"
     },
     {
@@ -115,7 +115,7 @@ const AktivitasPage = () => {
     },
     {
       id: 7,
-      title: "Sosialisasi Pembuatan Mpon-Mpon",
+      title: "Sosialisasi Pembuatan Mpon-Mpon Oleh Mahasiswa KKN ITERA",
       image: "/image/Dokumentasi/d7.jpg"
     },
     {
@@ -135,7 +135,7 @@ const AktivitasPage = () => {
     },
     {
       id: 11,
-      title: "Pengajian",
+      title: "Pengajian Rutin",
       image: "/image/Dokumentasi/d11.jpg"
     }
   ];

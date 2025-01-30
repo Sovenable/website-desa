@@ -58,17 +58,17 @@ const ProfilePage = () => {
               Desa Tanjung Jaya merupakan desa yang terletak di Kecamatan Limau, Kabupaten Tanggamus. 
               Desa ini memiliki sejarah panjang yang bermula dari semangat masyarakat untuk membangun wilayah mandiri. 
               Usulan pemekaran desa pertama kali diajukan pada bulan Januari 2007 oleh masyarakat Pekon Badan. 
-              Setelah melalui proses panjang, pemekaran desa ini akhirnya diresmikan pada tanggal 20 November 2011, dengan ditunjuknya Bapak Sadiwan sebagai Penjabat Kepala Pekon pertama.
+              Setelah melalui proses panjang, pemekaran desa ini akhirnya diresmikan pada tanggal 20 November 2011, dengan ditunjuknya Bapak Sadiwan sebagai Plt. Kepala Pekon pertama.
               </p>
               <p className="text-gray-600 leading-relaxed">
-              Masa jabatan Bapak Sadiwan berlangsung hingga tahun 2012, ketika desa mulai mempersiapkan sistem pemerintahan yang lebih matang.
-              Pemilihan Kepala Pekon definitif pertama dilaksanakan pada tahun 2013, dan Bapak Fadhulloh terpilih untuk memimpin desa dari tahun 2013 hingga 2018. 
+              Masa jabatan Bapak Sadiwan berlangsung hingga tahun 2012 sebagai Plt. Kepala Pekon pertama, ketika desa mulai mempersiapkan sistem pemerintahan yang lebih matang.
+              Pemilihan Kepala Pekon pertama dilaksanakan pada tahun 2013, dan Bapak Fadhulloh terpilih untuk memimpin desa dari tahun 2013 hingga 2018. 
               Di bawah kepemimpinannya, Desa Tanjung Jaya mulai membangun fondasi penting dalam pemerintahan dan kesejahteraan masyarakat.
-              </p>
+              </p><br></br>
               <p className="text-gray-600 leading-relaxed">
-              Setelah masa jabatan Bapak Fadhulloh berakhir, Bapak Fathul Bahri, S.T. ditunjuk sebagai Penjabat Kepala Pekon pada tahun 2018.
+              Setelah masa jabatan Bapak Fadhulloh berakhir, Bapak Fathul Bahri, S.T. ditunjuk sebagai Plt. Kepala Pekon pada tahun 2018.
               Masa transisi ini berlangsung hingga tahun 2021, di mana desa tetap melanjutkan program-program pembangunan.
-              Pada tahun 2021, pemilihan Kepala Pekon kembali diadakan, dan Bapak Sadiwan terpilih kembali untuk memimpin desa. Hingga saat ini, di tahun 2029, beliau masih menjabat sebagai Kepala Pekon Tanjung Jaya.
+              Pada tahun 2021, pemilihan Kepala Pekon kembali diadakan, dan Bapak Sadiwan terpilih kembali untuk memimpin desa hingga saat ini sampai tahun 2029 nanti, beliau masih menjabat sebagai Kepala Pekon Tanjung Jaya.
               </p>
             </div>
           </section>
@@ -151,7 +151,7 @@ const ProfilePage = () => {
               <div className="md:col-span-1">
                 <div className="rounded-xl overflow-hidden shadow-lg">
                   <img 
-                    src="/image/Ayu.JPG" 
+                    src="/image/lurah.jpg" 
                     alt="Foto Kepala Desa"
                     className="w-full h-full object-cover"
                   />

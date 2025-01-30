@@ -81,7 +81,7 @@ const InformasiPage = () => {
                     </li>
                     <li className="flex items-center justify-between">
                       <span className="text-gray-600">Koordinat</span>
-                      <span className="font-semibold text-blue-600">7°15'S 112°45'E</span>
+                      <span className="font-semibold text-blue-600">-5.626451, 104.835505</span>
                     </li>
                   </ul>
                 </div>

@@ -74,22 +74,23 @@ const Homepage = () => {
     <div className="min-h-screen bg-gray-50">
       <Navbar />
 
-      {/* Hero Section dengan Parallax Effect */}
+      {/* Hero Section dengan Background Image */}
       <div className="relative h-[500px] md:h-[600px] overflow-hidden">
         <div 
-          className="absolute inset-0 bg-cover bg-center transform scale-110"
+          className="absolute inset-0 bg-cover bg-center"
           style={{
-            backgroundImage: `url('/image/bb.jpg')`,
-            opacity: '0'
+            backgroundImage: `url('/image/aa.jpg')`
           }}
         />
-        <div className="relative h-full bg-gradient-to-r from-blue-900/90 to-blue-800/80">
+        {/* Overlay gelap untuk memastikan teks tetap terbaca */}
+        <div className="absolute inset-0 bg-black/40"></div>
+        <div className="relative h-full">
           <div className="container mx-auto px-4 h-full flex items-center">
             <div className="max-w-2xl">
               <h1 className="text-4xl md:text-5xl font-bold text-white mb-6 leading-tight">
                 Selamat Datang di Desa Tanjung Jaya
               </h1>
-              <p className="text-xl text-blue-100 mb-8">
+              <p className="text-xl text-gray-100 mb-8">
                 Kecamatan Limau, Kabupaten Tanggamus - 
                 Menuju Desa yang Maju, Mandiri, dan Sejahtera
               </p>
@@ -102,7 +103,7 @@ const Homepage = () => {
                 </Link>
                 <Link 
                   to="/aktivitas-desa" 
-                  className="px-6 py-3 bg-blue-700 text-white rounded-lg font-semibold hover:bg-blue-600 transition-colors text-center"
+                  className="px-6 py-3 bg-blue-600 text-white rounded-lg font-semibold hover:bg-blue-700 transition-colors text-center"
                 >
                   Aktivitas Terbaru
                 </Link>
@@ -111,7 +112,6 @@ const Homepage = () => {
           </div>
         </div>
       </div>
-
       {/* Statistik Desa Section */}
       <div className="bg-white py-16 -mt-20 relative z-10 rounded-t-3xl shadow-lg">
         <div className="container mx-auto px-4">
@@ -234,8 +234,8 @@ const Homepage = () => {
             <div>
               <h4 className="font-bold text-lg mb-4">Desa Tanjung Jaya</h4>
               <p>Alamat: Jl. Pramuka, Badak, Kec.Limau, Kabupaten Tanggamus</p>
-              <p>Telp: (021) 1234-5678</p>
-              <p>Email: info@desatanjungjaya.desa.id</p>
+              <p>Telp: 081379764127   </p>
+              <p>Email: tanjungjayajaya01@gmail.com</p>
             </div>
           </div>
           <div className="text-center mt-8 pt-8 border-t border-blue-800">
